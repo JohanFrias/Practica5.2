@@ -1,3 +1,5 @@
+EXPLICACION SOBRE QUE VALIDA CADA ESCENARIO GHERKIN
+
 1.	Transferencia exitosa (Exito): El flujo principal, descuento correcto del saldo, mensaje de confirmacion y generacion del comprobante.
 
 2.	Transferencia por el saldo total (Exito) Que el sistema permita transferir exactamente todo el saldo disponible y no falle en el limite inferior (saldo queda en 0).
